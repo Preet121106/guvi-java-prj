@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": ["."],  // Treat current folder as source root
+    "java.errors.incompleteClasspath.severity": "ignore",  // Suppress package errors
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar"
+  ]
+}
